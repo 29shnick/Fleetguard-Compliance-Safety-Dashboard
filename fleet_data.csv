@@ -1,0 +1,5 @@
+Driver_Name,CDL_Expiration,Truck_ID,Annual_Inspection_Due,Critical_Violations
+Jane Doe,2026-05-15,TK-101,2026-07-10,0
+John Smith,2026-04-10,TK-102,2026-03-30,1
+Maria Garcia,2026-03-20,TK-103,2026-04-20,3
+Ahmed Khan,2026-10-01,TK-104,2026-08-15,0
